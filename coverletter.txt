@@ -1,0 +1,18 @@
+We don’t just collect data, we connect data. YouGov is an international data and analytics group with the ambition to become a unique part of the global internet infrastructure - like Google for search, Facebook for social, Amazon for retail, we want it to be YouGov for opinion. Our value chain is a virtuous circle consisting of a highly engaged online panel, innovative data collection methods and powerful analytics technology.
+From the beginning we had one simple idea: the more people are able to participate in the decisions made by the institutions that serve them, the better those decisions will be. We are a global online community for millions of people, and thousands of organisations, to engage in a continuous conversation about their beliefs, behaviours and brands, and provide a more accurate portrait of what the world thinks. 
+Yougov is searching for a Remote Python Developer to collaborate building a modern and large-scale cloud-based analytics platform built for the web, entirely in Python.
+
+
+"If loving Data is wrong, I don’t want to be right..." 
+Hi, I would love to express my interest for the role of Python Developer at YouGov. 
+My passion is to work with extremely talented people and collaborate to make products that would make an
+immediate and lasting impact. I enjoy manipulating data i.e extraction and transformation, I just love the feeling that
+comes with it and I would do it over and over. Forexample, as part of the ETL process, I have written a parser using 
+python and regular expressions to transform data from a text file(Email) to JSon. Applying to YouGov would therefore give 
+me a chance to work on something I really care about and love. 
+
+I have a great experience working remotely and I have learnt to appreciate the advantages and manover the
+challenges it comes with. I have excellent work ethics and with a working feedback loop/culture, only the sky is 
+the limit.
+
+I truly love what you do and hope to make a solid contribution to a team at YouGov. I look forward to speaking with you in person.
