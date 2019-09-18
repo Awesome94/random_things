@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Random",
+            "request": "launch",
+            "mainClass": "Random"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Puppy",
             "request": "launch",
             "mainClass": "Puppy"
